@@ -1,5 +1,5 @@
 # facebook-api
-## Build
+## Build 🛠
 
 Install the dependencies.
 
@@ -20,7 +20,7 @@ $ npm run start:dev
 $ npm run start:prod
 ```
 
-## Swagger Documentation
+## Swagger Documentation 📖
 
 ```bash
 http://localhost:3000/api/
