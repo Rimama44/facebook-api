@@ -1,4 +1,7 @@
 # facebook-api
+
+This is a NestJS project 💻
+
 ## Build 🛠
 
 Install the dependencies.
